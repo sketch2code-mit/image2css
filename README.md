@@ -6,7 +6,7 @@
 
 
 
-### Example results
+### Selected example results
 
 ![screenshot2](screenshots/screenshot2.png)
 
